@@ -30,9 +30,5 @@ Employee --> UC8
 Employee --> UC9
 Employee --> UC10
 
-UC1 --> UC3
-UC2 --> UC3
-UC3 --> UC4
-UC4 --> UC5
 
 @enduml
